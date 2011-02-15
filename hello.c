@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	printf("Yeah, you already know that, don't ya?\n");
+	puts("Yeah, you already know that, don't ya?");
 
 	return 0;
 }
